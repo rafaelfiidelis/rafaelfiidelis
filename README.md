@@ -1,5 +1,7 @@
-### Hi there 👋
+Olá, sou o Rafael
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💬 Ask me about ...
-- 📫 How to reach me: @rafaelfiidelis
+Estou estudando UX Design - Certificação Google.
+
+O que seria de cada objeto, físico ou virtual, sem um planejamento e perspectiva focado na experiência do usuário?
+
+Novo neste ramo e entusiasmado para me tornar um excelente profissional na área, com foco em atender as necessidades do próximo. 
