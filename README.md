@@ -2,10 +2,10 @@
 
 <p>Atualmente estou estudando Desenvolvimento Web Full Stack pela Udemy.</p>
 <ol>
-  <li></li>Lógica de Programação;
+  <li>Lógica de Programação;</li>
   <li>HTML5;</li>
   <li>CSS3;</li>
   <li>JavaScript;</li>
-  <li>TypeScript;</li>/
+  <li>TypeScript;</li>
   <li>React.js.</li>
 </ol> 
